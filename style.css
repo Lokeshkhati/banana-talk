@@ -1,0 +1,157 @@
+
+
+:root{
+    --primary-color:hsla(46, 100%, 57%, 0.767);
+}
+
+body{
+    margin: 0px;
+    background-color: #F9FAFB;
+}
+/*navigation */
+
+.navigation {
+    background-color: var(--primary-color);
+    margin: auto;
+    box-shadow: 0 1px 4px rgba(146,161,176,.15);
+    max-width: 1350px;
+    padding: 1.2rem;
+}
+.heading {
+    font-weight: bold;
+    color: rgb(117, 116, 116);
+    font-size: 2rem;
+    text-align: center;
+}
+
+
+/* hero */
+
+.hero-image{
+    max-width:350px;
+    display: block;
+    margin:auto;
+    width:230px;
+    height:200px;
+    padding-top: 3rem;
+    
+}
+.hero-heading{
+    color:var(--primary-color);
+    padding-top:0rem;
+    text-align: center;
+}
+
+/* containers */
+.container{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.container-center{
+    max-width: 650px;
+    margin:auto;
+}
+.btn{
+    max-width: 15rem;
+} 
+
+
+/*  input*/
+textarea{
+    width:80%;
+    height:15vh;
+    display: block;
+    margin-left:1rem;
+    padding: 1rem;
+    text-align: left;
+    font-size:1.5rem;
+   
+    
+}
+
+
+/* button */
+.btn-translate{
+    
+    background-color: var(--primary-color);
+    border: none;
+    color: black;
+    padding: 12px 25px;
+    font-size:1rem;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 5px 10px -4px var(--primary-color);
+    text-align:center;  
+    margin: 1rem auto 1rem auto;
+}
+
+
+.outputhere-text{
+    font-size:1.5rem;
+    margin-left:1rem;
+    text-align: center;
+}
+
+/* Output */
+.output{
+    border: 1px solid black;
+    height: 15vh;
+    width: 80%;
+    margin-left:1rem;
+    padding: 2 rem;
+    display: block;
+    font-size: 2rem;
+    background-color: white;
+}
+
+/* footer */
+.footer{
+    background-color:var(--primary-color);
+    padding:2rem 0rem;
+    text-align: center;
+    color:black;
+    margin:4rem auto 0 auto;
+    
+}
+
+.footer .footer-header{
+    
+    font-size: 1.4rem;
+    padding-inline-start:0px;
+    margin-top: 1.2rem;
+}
+
+.footer-about{
+    font-size:2rem;
+}
+
+/* spaces */
+/* #space{
+    height: 5vh;
+}
+
+.padding-medium{
+    padding-bottom: 2rem;
+}
+
+.padding-small{
+    padding-bottom: 0.5rem;
+} */
+
+/* footer{
+    margin-bottom: 0px;
+}
+
+
+textarea{
+    border:none;
+    box-shadow: 0 1px 25px #E5E7EB;
+}
+
+.output{
+    border:none;
+    box-shadow: 0 1px 25px #E5E7EB;
+    padding: 1rem;
+}
+*/
