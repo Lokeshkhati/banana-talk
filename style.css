@@ -10,6 +10,9 @@ body{
 }
 /*navigation */
 
+h1>img{
+    height: 5rem;
+}
 .navigation {
     background-color: var(--primary-color);
     margin: auto;
