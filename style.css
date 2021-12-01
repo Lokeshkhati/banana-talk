@@ -9,10 +9,6 @@ body{
     background-color: #F9FAFB;
 }
 /*navigation */
-
-h1>img{
-    height: 5rem;
-}
 .navigation {
     background-color: var(--primary-color);
     margin: auto;
@@ -128,33 +124,3 @@ textarea{
 .footer-about{
     font-size:2rem;
 }
-
-/* spaces */
-/* #space{
-    height: 5vh;
-}
-
-.padding-medium{
-    padding-bottom: 2rem;
-}
-
-.padding-small{
-    padding-bottom: 0.5rem;
-} */
-
-/* footer{
-    margin-bottom: 0px;
-}
-
-
-textarea{
-    border:none;
-    box-shadow: 0 1px 25px #E5E7EB;
-}
-
-.output{
-    border:none;
-    box-shadow: 0 1px 25px #E5E7EB;
-    padding: 1rem;
-}
-*/
